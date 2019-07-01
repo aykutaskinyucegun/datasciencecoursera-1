@@ -13,3 +13,5 @@ The pml-coursera-project.md is a markdown file, created to aid the reviewers in 
 pml-training.csv and pml-testing.csv are the original datasets used for the analysis.
 
 testing_with_predictions file contains a table with the pml-testing.csv dataset observations along with the predictions performed by the Random Forest model of the analysis, for the variable classe.
+
+http://rpubs.com/aykutaskinyucegun/509792 check for html
